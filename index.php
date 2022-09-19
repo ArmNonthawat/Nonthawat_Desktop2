@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<?php include("includes/header.php"); ?>
+</head>
+gggggggggggggggggggggggggggg
+<body>
+<?php include("includes/navbar.php"); ?>
+<div class="container">
+    <!-- Start -->
+<h2>หน้าหลัก</h2>
+<hr>
+welcome 453453
+
+
+33543
+
+    <!-- End -->
+</div>
+
+</body>
+
+</html>
+<?php include("includes/footer.php"); ?>
